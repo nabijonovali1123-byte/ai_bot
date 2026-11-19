@@ -1,0 +1,11 @@
+.env
+.venv/
+data/
+profile.md
+__pycache__/
+.pytest_cache/
+.git/
+.DS_Store
+*.bak
+tests/
+AGENTS.md
